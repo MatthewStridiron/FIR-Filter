@@ -1,5 +1,0 @@
-vsim -do "simcore.do"
-
-
-
-
